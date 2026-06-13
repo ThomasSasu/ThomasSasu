@@ -1,7 +1,7 @@
 
 <!-- ================= ULTRA CINEMATIC HEADER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:1d4ed8&height=260&section=header&text=SOFTWARE%20ENGINEER&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:1d4ed8&height=260&section=header&text=Software Engineer (Backend • Systems • AI)&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <p align="center">
