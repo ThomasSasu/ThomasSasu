@@ -23,3 +23,42 @@ I specialize in building systems across the full computing stack:
 - 🎨 3D Simulation & Design (Blender animations)
 
 > I don’t just write code — I build systems from first principles.
+>
+> 
+---
+
+# 🧰 TECHNOLOGY STACK (VISUAL OVERVIEW)
+
+<p align="center">
+  <b>Languages</b><br><br>
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,html,css,sql" />
+</p>
+
+<br>
+
+<p align="center">
+  <b>Backend & Systems</b><br><br>
+  <img src="https://skillicons.dev/icons?i=fastapi,django,flask,nodejs,postgres,git,github,vscode" />
+</p>
+
+<br>
+
+<p align="center">
+  <b>Game Development & 3D</b><br><br>
+  <img src="https://skillicons.dev/icons?i=unity,blender" />
+</p>
+
+<br>
+
+<p align="center">
+  <b>Engineering & Architecture</b><br><br>
+  <img src="https://img.shields.io/badge/Logisim-Digital%20Design-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CPU-Architecture-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/System%20Design-Learning-green?style=for-the-badge" />
+</p>
+
+---
+
+<p align="center">
+  <b>⚡ Built with passion for systems, backend engineering, AI, and game development ⚡</b>
+</p>
